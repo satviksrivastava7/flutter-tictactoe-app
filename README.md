@@ -16,23 +16,23 @@ Following assets are being used in the game:
 The GUI part of the code is in the main.dart file, in the lib floder, and the logic part is in the HomePage.dart file, again under the lib folder.
 Following are the screenshots of the code along with the end result.
 <br>
-## main.dart file
+<h3>main.dart file</h3>
 <br>
 <img src="assets\images\main_sc.png">
 <br>
-## HomePage.dart file
+<h3>HomePage.dart file</h3>
 <br>
 <img src="assets\images\homepage_sc.png">
 <br>
-## Application load state
+<h3>Application load state</h3>
 <br>
 <img src="assets\images\app_initial_sc.png">
 <br>
-## Application game tie state
+<h3>Application game tie state</h3>
 <br>
 <img src="assets\images\app_tie_sc.png">
 <br>
-## Application game win state
+<h3>Application game win state</h3>
 <br>
 <img src="assets\images\app_win_sc.png">
 <br>
