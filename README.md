@@ -1,16 +1,21 @@
-# tictactoe
+#Tic-Tac-Toe Application
 
-A new Flutter project.
+This is an application for the game Tic-Tac-Toe, built using the flutter framework.
+It works on android, ios, and web devices. 
+The assets are included in the files.
+Following assets are being used in the game:
+<img src="assets/img/initial.png">
+<&nbsp>
+<img src="assets/img/cross.png">
+<&nbsp>
+<img src="assets/img/circle.png">
+<br>
+The GUI part of the code is in the main.dart file, in the lib floder, and the logic part is in the HomePage.dart file, again under the lib folder.
+Following are the screenshots of the code along with the end result.
+<img src="assets/img/main_sc.jpg">
+<br>
+<img src="assets/img/homepage_sc.jpg">
+<br>
+<img src="assets/img/app_sc.png">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The next step is to improve the UI-UX and add additional features to the app. 
