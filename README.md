@@ -1,16 +1,21 @@
-# tictactoe
+# Tic Tac Toe Application
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application is built on flutter framework, and works on andrios, ios, and web. 
+The assets used in the application are:
+<img src="assets/img/initial.png">
+<nbsp>
+<img src="assets/img/circle.png">
+<nbsp>
+<img src="assets/img/cross.png">
+ 
+On completion the app will look as follows:
+<img src="assets/img/main_code_screenshot.jpg">
+<br>
+<img src="assets/img/app_code_screenshot.jpg">
+<br>
+<img src="assets/img/app_screenshot.jpg">
