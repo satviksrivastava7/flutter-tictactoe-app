@@ -1,5 +1,6 @@
 #Tic-Tac-Toe Application
 
+
 This is an application for the game Tic-Tac-Toe, built using the flutter framework.
 It works on android, ios, and web devices. 
 The assets are included in the files.
@@ -19,5 +20,5 @@ Following are the screenshots of the code along with the end result.
 <img src="assets/img/homepage_sc.jpg">
 <br>
 <img src="assets/img/app_sc.png">
-<bra>
-The next step is to improve the UI-UX and add additional features to the app. 
+<br>
+The next step is to improve the UI-UX and add additional features to the app.
