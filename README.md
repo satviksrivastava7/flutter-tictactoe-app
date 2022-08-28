@@ -6,19 +6,19 @@ It works on android, ios, and web devices.
 The assets are included in the files.
 Following assets are being used in the game:
 <br>
-<img src="assets/img/initial.png">
+<img src="assets\images\initial.png">
 &nbsp;
-<img src="assets/img/cross.png">
+<img src="assets\images\cross.png">
 &nbsp;
-<img src="assets/img/circle.png">
+<img src="assets\images\circle.png">
 <br>
 The GUI part of the code is in the main.dart file, in the lib floder, and the logic part is in the HomePage.dart file, again under the lib folder.
 Following are the screenshots of the code along with the end result.
 <br>
-<img src="assets/img/main_sc.jpg">
+<img src="assets\images\main_sc.jpg">
 <br>
-<img src="assets/img/homepage_sc.jpg">
+<img src="assets\images\homepage_sc.jpg">
 <br>
-<img src="assets/img/app_sc.png">
+<img src="assets\images\app_sc.png">
 <br>
 The next step is to improve the UI-UX and add additional features to the app.
